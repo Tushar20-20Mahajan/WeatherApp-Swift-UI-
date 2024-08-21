@@ -34,6 +34,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3F19BCF52C75FABA008B940F /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
 		C02D21E82C01A93D00CF5272 = {
 			isa = PBXGroup;
 			children = (
@@ -53,6 +60,7 @@
 		C02D21F32C01A93D00CF5272 /* WeatherApp */ = {
 			isa = PBXGroup;
 			children = (
+				3F19BCF52C75FABA008B940F /* New Group */,
 				C02D21F42C01A93D00CF5272 /* WeatherAppApp.swift */,
 				C02D21F62C01A93D00CF5272 /* ContentView.swift */,
 				C02D21F82C01A93E00CF5272 /* Assets.xcassets */,
